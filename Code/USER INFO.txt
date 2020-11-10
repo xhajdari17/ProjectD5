@@ -1,0 +1,9 @@
+User information
+
+ADMIN
+EMAIL: ana@gmail
+PASSWORD: ana123
+
+NORMAL USER
+EMAIL: klevi@gmail.com
+PASSWORD: klevi123
